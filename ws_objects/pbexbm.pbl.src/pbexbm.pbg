@@ -16,6 +16,7 @@
  "p_benchmark_machine32.srj" "pbexbm.pbl";
  "p_benchmark_pcode.srj" "pbexbm.pbl";
  "u_cst_timer.sru" "pbexbm.pbl";
+ "w_1.srw" "pbexbm.pbl";
  "w_benchmark.srw" "pbexbm.pbl";
  "w_center.srw" "pbexbm.pbl";
  "w_empty.srw" "pbexbm.pbl";
