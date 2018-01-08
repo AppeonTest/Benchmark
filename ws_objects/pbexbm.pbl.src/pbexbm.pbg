@@ -4,6 +4,7 @@
 @end;
 @begin Objects 
  "benchmark.sra" "pbexbm.pbl";
+ "test2.sra" "pbexbm.pbl";
  "d_benchmark_report.srd" "pbexbm.pbl";
  "d_dddw_cust.srd" "pbexbm.pbl";
  "d_dddw_fin_code.srd" "pbexbm.pbl";
@@ -19,6 +20,8 @@
  "w_1.srw" "pbexbm.pbl";
  "w_2.srw" "pbexbm.pbl";
  "w_3.srw" "pbexbm.pbl";
+ "w_4.srw" "pbexbm.pbl";
+ "w_5.srw" "pbexbm.pbl";
  "w_benchmark.srw" "pbexbm.pbl";
  "w_center.srw" "pbexbm.pbl";
  "w_empty.srw" "pbexbm.pbl";
